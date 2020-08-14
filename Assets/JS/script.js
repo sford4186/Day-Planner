@@ -12,7 +12,7 @@ for (var i=8; i<18; i++){
     if(currentHour > i){
         $(".block"+i).addClass("past")
     } else if (parseInt(currentHour)===i){
-        $(".block"+i).addClass("current")
+        $(".block"+i).addClass("present")
     } else{
         $(".block"+i).addClass("future")
     }

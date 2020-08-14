@@ -42,7 +42,7 @@ textarea{
   border-top: 1px dashed #000000;
 }
 
-/* .past {
+.past {
   background-color: #d3d3d3;
   color: white;
 }
@@ -55,7 +55,7 @@ textarea{
 .future {
   background-color: #77dd77;
   color: white;
-} */
+}
 
 .saveBtn {
   border-left: 1px solid black;
@@ -100,17 +100,78 @@ textarea{
   
 }
 
-.past {
+/* .past {
   background-color: gray;
   color: black;
+  border-top-color:red;
+    
 }
 
 .current {
   background-color: yellow;
-  color: black;
+  color:black;
 }
 
 .future {
   background-color: green;
   color: black;
+} */
+
+.block8 {
+  border-style: groove;
+  color: black;
+} 
+
+.block9 {
+  border-style: groove;
+  color: black;
+} 
+
+.block10 {
+  border-style: groove;
+  color: black;
+} 
+
+.block11 {
+  border-style: groove;
+  color: black;
+} 
+
+.block12 {
+  border-style: groove;
+  color: black;
+} 
+
+.block13 {
+  border-style: groove;
+  color: black;
+} 
+
+.block14 {
+  border-style: groove;
+  color: black;
+} 
+
+.block15 {
+  border-style: groove;
+  color: black;
+} 
+
+.block16 {
+  border-style: groove;
+  color: black;
+} 
+
+.block17 {
+  border-style: groove;
+  color: black;
+} 
+
+.btn {
+  background-color: skyblue;
+}
+
+.input-group-text {
+  background-color: skyblue;
+
 }
